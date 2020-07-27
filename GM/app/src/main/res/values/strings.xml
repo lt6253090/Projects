@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Globo Med</string>
+    <string name="action_delete">Delete</string>
+    <string name="name">Full Name</string>
+    <string name="designation">Designation</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="dob">DOB: dd/mm/yyyy</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="confirm_sure">Are you sure you want to delete all data?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="IsSurgeon">Is Surgeon: </string>
+    <string name="delete">Are you sure you want to delete this</string>
+    <string name="required">Required Field</string>
+</resources>
